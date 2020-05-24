@@ -1,1 +1,1 @@
-# snippet_fe_react_auth_with_email
+# snippet_fe_react_blank
